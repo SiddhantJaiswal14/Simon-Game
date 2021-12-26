@@ -1,3 +1,3 @@
 # Simon-Game
 ### A simple javascript based memory game.
-Link: https://simon-game-3jfoyy7k5-siddhantjaiswal.vercel.app/
+Link: https://simon-game-9sk7ct7z9-siddhantjaiswal.vercel.app/
