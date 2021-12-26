@@ -199,6 +199,11 @@ body {
     font-size: 8px;
   }
 
+  #switches input,
+  button {
+    transform: translateY(-6px);
+  }
+
   .text1 {
     position: absolute;
     font-family: "Original Surfer", cursive;
@@ -208,7 +213,7 @@ body {
   }
 
   .text1 span:last-child {
-    padding-left: 35px;
+    padding-left: 40px;
   }
 
   #title {
